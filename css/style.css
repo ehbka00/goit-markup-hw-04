@@ -396,7 +396,7 @@ margin-bottom: 10px;
 .wrap-link:hover,
 .wrap-link:focus {
 	color: var(--focus-color);
-	border: solid var(--focus-color);
+	border-color: var(--focus-color);
 }
 
 .icon-client {
